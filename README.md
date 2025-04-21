@@ -1,0 +1,2 @@
+# egweb
+Example static website
